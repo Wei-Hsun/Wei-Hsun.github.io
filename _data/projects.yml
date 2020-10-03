@@ -1,0 +1,8 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: NKUST Thesis Template
+  gh_user: yuhao-kuo
+  repo: NKUST-thesis-template
+  img: https://www.nkust.edu.tw/var/file/0/1000/img/513/533313901.png
+  desc: It is based on LaTex for National Kaohsiung University of Science and Technology thesis template. I extended the project with ...

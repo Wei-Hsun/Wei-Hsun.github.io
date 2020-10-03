@@ -1,0 +1,36 @@
+# Site settings
+title: 'Huang, Wei-Hsun'
+description: 'Business Card Page'
+url: 'https://www.Wei-Hsun.github.io'
+baseurl: ''
+profilepic: 'https://avatars0.githubusercontent.com/u/26587275?s=460&u=25f8eff83e693e24c5592b183e2d0d05335e9aa6&v=4'
+bkimage: '/images/bk1.jpg'
+google_analytics: UA-XXXXXX-X
+font_awesome: 'XXXXXXXXXX.js'
+
+author:
+  name: 'Huang, Wei-Hsun'
+  email: w.h.huang1996@gmail.com
+  # twitter_username: thomzuehlke
+  #  facebook_username: joshgerdes
+  github_username:  Wei-Hsun
+  linkedin_username:  韋勳-黃-b169bab4
+  # meetup_name: Azure-Meetup-Rostock-MV
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
