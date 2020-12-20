@@ -6,3 +6,9 @@
   repo: NKUST-thesis-template
   img: https://www.nkust.edu.tw/var/file/0/1000/img/513/533313901.png
   desc: It is based on LaTex for National Kaohsiung University of Science and Technology thesis template. I extended the project with ...
+
+- name: AdminLTE with .Net Core
+  gh_user: Wei-Hsun
+  repo: AdminLTE-with-dotnet-core
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png
+  desc: It is based on .Net Core for AdminLTE Dashboard model.
